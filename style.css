@@ -19,8 +19,23 @@ body {
     margin-top: -10px;
 }
 
+nav {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin-left: -10px;
+    background-color: #758190;
+    display: flex;
+    justify-content: flex-end;
+  }
+
 .stats-container {
     display: flex;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
