@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YXzTJC1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='[def]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifcap  
@@ -53,3 +53,6 @@ Once it is implemented, the result is very obvious, and the pattern is easy to r
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[def]: ttps://imgur.com/a/YXzTJC
