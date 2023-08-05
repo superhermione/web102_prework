@@ -10,21 +10,21 @@ Time spent: 10 hours spent in total
 
 The following **required** functionality is completed:
 
-* [completed] The introduction section explains the background of the company and how many games remain unfunded.
-* [completed] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
-* [completed] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
-* [completed] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
+* [x] The introduction section explains the background of the company and how many games remain unfunded.
+* [x] The Stats section includes information about the total contributions and dollars raised as well as the top two most funded games.
+* [x] The Our Games section initially displays all games funded by Sea Monster Crowdfunding
+* [x] The Our Games section has three buttons that allow the user to display only unfunded games, only funded games, or all games.
 
 The following **optional** features are implemented:
 
-* [implemented] a search bar for user to discover the site and search for a specific game they have heard of
-* [implemented] a nav bar at the top of the page for user to locate to the Our Game section quickly
+* [x] a search bar for user to discover the site and search for a specific game they have heard of
+* [x] a nav bar at the top of the page for user to locate to the Our Game section quickly
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src="![Imgur Image](https://i.imgur.com/Z73RQwm.gif)" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="./assets/gif.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifcap  
