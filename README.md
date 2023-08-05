@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/YXzTJC1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='"C:\Users\super\Downloads\Recording 2023-08-03 at 15.15.30.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifcap  
