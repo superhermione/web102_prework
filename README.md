@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[def]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/a/YXzTJC1' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Gifcap  
@@ -35,7 +35,7 @@ GIF created with Gifcap
 
 ## Notes
 
-The implementmentation of innerHTML has been very useful, but takes extra learning time to go over ample examples
+The implementmentation of innerHTML has been very useful, but takes extra learning time to go over ample examples.
 Once it is implemented, the result is very obvious, and the pattern is easy to read afterwards
 
 ## License
